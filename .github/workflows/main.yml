@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - main
-      
   workflow_dispatch:
 
 permissions:
@@ -23,8 +22,10 @@ jobs:
       - name: Setup Flutter
         uses: subosito/flutter-action@v2
         with:
-          flutter-version: '3.35.7'
-          channel: 'stable'
+          channel: stable
+
+      - name: Check Flutter
+        run: flutter --version
 
       - name: Install dependencies
         run: flutter pub get
