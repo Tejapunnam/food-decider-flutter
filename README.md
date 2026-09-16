@@ -6,6 +6,14 @@ Food Decider removes the stress of choosing a meal by allowing users to select a
 
 ---
 
+## 🚀 Live Demo
+
+👉 **[Open Food Decider Live Demo](https://tejapunnam.github.io/food-decider-flutter/)**
+
+Try the application directly in your browser without installing anything.
+
+---
+
 ## ✨ Features
 
 - 🎲 **Random Food Decision**  
@@ -60,3 +68,8 @@ Food Decider removes the stress of choosing a meal by allowing users to select a
               ┌──────────────┼──────────────┐
               ▼              ▼              ▼
           ❤️ Favorite    📜 History     🔀 No Repeat
+              │              │              │
+              └──────────────┼──────────────┘
+                             │
+                             ▼
+                    ⚙️ Settings / My Foods
