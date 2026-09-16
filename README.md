@@ -1,17 +1,62 @@
-# flutter_application_1
+# 🍽️ Food Decider
 
-A new Flutter project.
+> A simple and interactive Flutter application that helps you decide what to eat when you can't choose.
 
-## Getting Started
+Food Decider removes the stress of choosing a meal by allowing users to select a food category and randomly generate a food recommendation with a single tap.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- 🎲 **Random Food Decision**  
+  Randomly selects a food from the available options.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 🍕 **Food Categories**  
+  Choose from:
+  - Any Food
+  - Indian
+  - Fast Food
+  - Healthy
+  - Desserts
+
+- ❤️ **Favorites**  
+  Save your favorite food choices for quick access.
+
+- 📜 **Decision History**  
+  View previously selected foods.
+
+- 🍽️ **My Foods**  
+  Add your own custom food choices.
+
+- 🔀 **No Repeat Mode**  
+  Prevents foods from being selected again until the available options have been used.
+
+- ⚙️ **Settings**  
+  Manage application options and view food statistics.
+
+- 🎨 **Clean User Interface**  
+  Built with Flutter Material 3 components and a simple, user-friendly design.
+
+---
+
+## 📱 Application Flow
+
+```text
+                    ┌─────────────────┐
+                    │  Food Decider   │
+                    └────────┬────────┘
+                             │
+                    Select Food Category
+                             │
+                             ▼
+                    ┌─────────────────┐
+                    │  Decide for Me  │
+                    │       🎲        │
+                    └────────┬────────┘
+                             │
+                             ▼
+                    Random Food Selected
+                             │
+              ┌──────────────┼──────────────┐
+              ▼              ▼              ▼
+          ❤️ Favorite    📜 History     🔀 No Repeat
