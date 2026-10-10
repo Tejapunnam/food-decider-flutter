@@ -73,3 +73,32 @@ Try the application directly in your browser without installing anything.
                              │
                              ▼
                     ⚙️ Settings / My Foods
+## Experiment 1: Dart Programming Basics
+
+### Aim
+To understand the basic concepts of the Dart programming language and apply them to the Food Decider project.
+
+### Concepts Implemented
+
+- Variables and data types
+- Arithmetic operators
+- Conditional statements
+- Lists
+- For loop
+- Functions
+- List operations
+
+### Implementation
+
+A Dart program was created in
+`lib/experiments/experiment_01_dart_basics.dart`.
+
+The program demonstrates food details, price calculation, food availability checking, displaying a food menu, selecting a food item using a function, and updating the food list.
+
+### Source Code
+
+![Experiment 1 Source Code](screenshots/experiment_01/experiment_01_code.png)
+
+### Output
+
+![Experiment 1 Output](screenshots/experiment_01/experiment_01_output.png)
