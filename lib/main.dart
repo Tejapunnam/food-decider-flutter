@@ -1,4 +1,5 @@
 // Experiment 1: Flutter and Dart SDK setup + Language Basics
+// Exp 2: Layout widgets (Row, Column, Stack)
 import 'dart:math';
 import 'package:flutter/material.dart';
 
