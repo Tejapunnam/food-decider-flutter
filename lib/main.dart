@@ -4,6 +4,7 @@
 // Exp 4: Screen navigation using Navigator and named routes
 // Exp 5: State management using setState and Provider
 // Exp 6: Custom widgets and theme styling
+// Exp 7: Input forms with validation and error handling
 import 'dart:math';
 import 'package:flutter/material.dart';
 
