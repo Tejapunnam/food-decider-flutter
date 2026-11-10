@@ -12,6 +12,13 @@ Food Decider removes the stress of choosing a meal by allowing users to select a
 
 Try the application directly in your browser without installing anything.
 
+Screenshots
+Add screenshots of your actual application:
+- Home Screen
+- Food Selection Screen
+- Favourite Foods
+- Food History
+- Settings Screen
 ---
 INSERT IMAGES 
 
