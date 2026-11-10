@@ -29,7 +29,12 @@ INSERT IMAGES
 
 <img width="1920" height="1080" alt="Screenshot (1003)" src="https://github.com/user-attachments/assets/0e6cc518-4395-4777-8f1f-10e81961d249" />
 
-
+Objectives
+- To learn Flutter and Dart programming.
+- To understand mobile application development.
+- To implement different Flutter widgets and layouts.
+- To develop interactive and user-friendly interfaces.
+- To understand state management and navigation.
 
 ## ✨ Features
 
